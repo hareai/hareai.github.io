@@ -1,0 +1,24 @@
+{
+  "name": "hareai-github-io",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "check": "astro check",
+    "subset-wenkai": "bash scripts/subset-wenkai.sh",
+    "postinstall": "node scripts/overlay-marks.mjs"
+  },
+  "dependencies": {
+    "@astrojs/rss": "^4.0.19",
+    "@astrojs/sitemap": "^3.7.4",
+    "astro": "^7.3.1",
+    "lonefox": "github:hareai/lonefox#278a802cdecf2cf4ae07f00e3e84ed435ad4a752"
+  },
+  "devDependencies": {
+    "@astrojs/check": "^0.9.10",
+    "typescript": "^5.9.3"
+  }
+}

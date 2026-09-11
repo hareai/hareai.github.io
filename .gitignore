@@ -1,0 +1,22 @@
+node_modules
+dist/
+.astro/
+.hugo_build.lock
+
+# dev screenshots
+*.png
+*.jpg
+*.webp
+!public/images/**/*
+!public/favicon.png
+!public/apple-touch-icon.png
+
+# project tooling / scratch
+.impeccable/review/
+.hermes/
+.wrangler/
+
+# CJK subset source (~25MB TTF + generated chars). Rebuild with:
+#   npm run subset-wenkai
+tools/fonts-src/
+
