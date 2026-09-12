@@ -4,8 +4,6 @@
 
 Personal site. Built with [lonefox](https://github.com/hareai/lonefox).
 
-Wordmark on this preview is a trial: `hare`. Motto stays.
-
 ## Develop
 
 ```sh
