@@ -5,7 +5,7 @@ export const site = {
   wordmark: 'hare',
   motto: 'still lost, still going.',
   description: 'a quiet den on the web — systems, domains, places & words, kept by one still lost, still going.',
-  url: 'https://hareai.github.io',
+  url: 'https://hareai.dev',
   lang: 'en',
   author: 'Lee Robin',
   email: 'hareai@outlook.com',
