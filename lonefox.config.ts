@@ -132,37 +132,6 @@ export const scraps = {
   ],
 };
 
-export const domains = {
-  meta: 'the trade / names',
-  headline: 'names i carried in',
-  accent: 'carried in',
-  lede: 'every name below i own outright — no brokers, no auctions, no waiting. say which one, it leaves my hands and goes home with you.',
-  contact: 'hareai@outlook.com',
-  forTrade: [
-    { d: 'openbeep.com', note: 'open + word — crisp, instantly memorable' },
-    { d: 'dotnovel.com', note: 'built for a great fiction site' },
-    { d: 'snowflick.com', note: 'a name with photographer energy' },
-    { d: 'soliny.com', note: 'clean and elegant — a European brand feel' },
-    { d: 'very.social', note: 'born to be a social platform' },
-    { d: 'opensoul.me', note: "fits today's AI-roleplay wave" },
-    { d: 'phper.org', note: "the PHP developer's domain" },
-  ],
-  sold: [
-    { d: 'joy.is', p: 2000, note: 'a charity organisation' },
-    { d: 'clawhost.com', p: 2000, note: 'a cloud hosting provider' },
-    { d: 'wamcn.com', note: 'an industrial company' },
-    { d: 'sovps.com', note: 'a cloud hosting provider' },
-    { d: 'jsonfmt.com', note: 'a developer-tool site' },
-    { d: 'img.name' },
-    { d: 'codefish.cn' },
-    { d: 'pikpak.net' },
-    { d: 'pxpx.net' },
-    { d: 'ddns.top' },
-    { d: 'unlock.top' },
-    { d: 'mofa.me' },
-  ],
-};
-
 export const notFound = {
   meta: '404 / nothing here',
   headline: 'this path is empty',

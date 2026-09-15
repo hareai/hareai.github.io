@@ -15,7 +15,7 @@
     "@astrojs/rss": "^4.0.19",
     "@astrojs/sitemap": "^3.7.4",
     "astro": "^7.3.1",
-    "lonefox": "github:hareai/lonefox#278a802cdecf2cf4ae07f00e3e84ed435ad4a752"
+    "lonefox": "github:hareai/lonefox#b558db45e5b3683baa5588ac6bbcad08aa2a53f1"
   },
   "devDependencies": {
     "@astrojs/check": "^0.9.10",
